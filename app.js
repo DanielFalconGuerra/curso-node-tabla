@@ -36,5 +36,9 @@ npm install para instalar todos los pquetes que necesita la aplicacion
 ------------------------------------------------------------
 node app --help
 node app --version - Muestra la version del software que aparece en el archivo package.json
+------------------------------------------------------------
+git init para incializar el repositorio
+git add . -- Sive para añadir archivos al commit
+git commit -m "Primer commit" -- Crear un commit
 */
 
